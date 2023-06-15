@@ -29,7 +29,7 @@ To address this concern and promote sustainable practices, we developed an appli
 [6]:https://www.linkedin.com/in/adrian-triputra/
 
 
-## Co-ffee Github Repo Links ##
+## Recycash Github Repo Links ##
 
 
 **Machine Learning**
